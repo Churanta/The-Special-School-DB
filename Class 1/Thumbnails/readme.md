@@ -12,6 +12,9 @@
 ![42](https://github.com/Churanta/The-Special-School-DB/assets/83538805/5161518f-25b0-4a8a-bf99-a8cd101f0519)
 ![41](https://github.com/Churanta/The-Special-School-DB/assets/83538805/a2f4220e-ca0d-4aa1-860e-d3650946de59)
 ![40](https://github.com/Churanta/The-Special-School-DB/assets/83538805/bff9f54a-3ba2-4584-bb48-1c2f724ed64c)
+
+// Hindi 
+
 ![39](https://github.com/Churanta/The-Special-School-DB/assets/83538805/382f8aa1-ed9a-49c5-9a66-64609c3332e3)
 ![38](https://github.com/Churanta/The-Special-School-DB/assets/83538805/1c68c01f-e70e-414b-ba02-01a39def65e3)
 ![37](https://github.com/Churanta/The-Special-School-DB/assets/83538805/32cc29c7-6ff9-4021-9f39-c5ae4dc54fe2)

@@ -35,6 +35,8 @@
 ![22](https://github.com/Churanta/The-Special-School-DB/assets/83538805/7b0291b9-8b9a-43bf-8970-4328c4b941d2)
 ![21](https://github.com/Churanta/The-Special-School-DB/assets/83538805/a65ed841-6006-43de-a8b2-f280a7b4daf1)
 ![20](https://github.com/Churanta/The-Special-School-DB/assets/83538805/dca42029-e78d-4c69-a4f1-64dca757b5d5)
+
+//English
 ![19](https://github.com/Churanta/The-Special-School-DB/assets/83538805/fa5caf5b-19ce-40e7-89cd-aedcade6025f)
 ![18](https://github.com/Churanta/The-Special-School-DB/assets/83538805/cfdd51df-9adb-489d-bd12-0a56deb69e6d)
 ![17](https://github.com/Churanta/The-Special-School-DB/assets/83538805/30ef543d-1a91-488c-9e1c-75a1fdd8b13c)
